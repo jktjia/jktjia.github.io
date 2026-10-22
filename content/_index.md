@@ -6,7 +6,7 @@ lang = 'en'
 
 footer = false
 
-recent = true
+recent = false
 recent_max = 5
 recent_more_text = "more »"
 
